@@ -1,7 +1,7 @@
-package main
+package some
 
 import "fmt"
 
-func main() {
+func Hello() {
   fmt.Println("I am remote module")
 }
